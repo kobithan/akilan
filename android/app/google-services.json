@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094285417758",
+    "project_id": "shape-shifter-fitness-e89b7",
+    "storage_bucket": "shape-shifter-fitness-e89b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094285417758:android:7a03b798bb044e357dbd0f",
+        "android_client_info": {
+          "package_name": "com.googlers.shape_shifter_fitness_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094285417758-ape0r53fro7llea26a9n4gj00mvvda8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4a60jpamK9KttdOlFNRhES0Z1OPz-c_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094285417758-ape0r53fro7llea26a9n4gj00mvvda8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
